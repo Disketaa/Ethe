@@ -1,18 +1,11 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "key": {
-    "#": {
-      "tag": "minecraft:stone_tool_materials"
-    },
-    "/": {
-      "item": "minecraft:stick"
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:barrier"
     }
-  },
-  "pattern": [
-    "#",
-    "/"
   ],
   "result": {
-    "id": "farmersdelight:flint_knife"
+    "id": "minecraft:barrier"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:barrier"
+  },
+  "result": {
+    "id": "minecraft:barrier"
+  }
+}

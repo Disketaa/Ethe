@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:foods/cooked_egg"
+    },
+    {
+      "tag": "c:foods/milk"
+    }
+  ],
+  "result": {
+    "id": "moredelight:omelette"
+  }
+}

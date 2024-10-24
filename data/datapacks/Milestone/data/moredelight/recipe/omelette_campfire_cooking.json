@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:barrier"
+  },
+  "result": {
+    "id": "minecraft:barrier"
+  }
+}

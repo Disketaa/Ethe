@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "cookingtime": 400,
+  "experience": 1.0,
+  "ingredients": [
+      {
+        "tag": "c:foods/milk"
+      },
+      {
+        "item": "minecraft:carrot"
+      },
+      {
+        "item": "minecraft:carrot"
+      },
+      {
+        "item": "minecraft:carrot"
+      }
+  ],
+  "result": {
+    "id": "moredelight:carrot_soup"
+  }
+}

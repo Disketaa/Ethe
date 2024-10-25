@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "cookingtime": 400,
+  "experience": 1.0,
+  "ingredients": [
+      {
+        "tag": "c:foods/milk"
+      },
+      {
+        "item": "moredelight:bread_slice"
+      },
+      {
+        "tag": "c:sliced_potato"
+      },
+      {
+        "tag": "c:sliced_potato"
+      },
+      {
+        "tag": "c:sliced_potato"
+      }
+    ],
+  "result": {
+    "id": "moredelight:mashed_potatoes"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "renderGlint": true,
-  "glintIntensity": 0.8,
+  "glintIntensity": 1.2,
   "renderBackground": true,
   "compressBar": false,
   "displayedArmorCap": 100,

@@ -1,0 +1,7 @@
+{
+  "parent": "item/diamond_pickaxe",
+  "textures": {
+    "layer0": "item/diamond_pickaxe",
+    "layer1": "trims/items/pickaxe_trim_emerald"
+  }
+}

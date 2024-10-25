@@ -1,0 +1,7 @@
+{
+  "parent": "item/golden_sword",
+  "textures": {
+    "layer0": "item/golden_sword",
+    "layer1": "trims/items/sword_trim_quartz"
+  }
+}

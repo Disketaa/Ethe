@@ -1,0 +1,20 @@
+{
+  "targets": [
+    "combat"
+  ],
+  "additions": [
+    {
+      "items": [
+        "moredelight:wooden_knife",
+        "moredelight:stone_knife"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "farmersdelight:iron_knife"
+        ]
+      }
+    }
+  ]
+}

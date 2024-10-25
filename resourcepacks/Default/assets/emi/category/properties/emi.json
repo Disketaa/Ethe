@@ -1,0 +1,103 @@
+{
+  "minecraft:crafting": {
+    "order": 0
+  },
+  "minecraft:smelting": {
+    "order": 1
+  },
+  "minecraft:blasting": {
+    "order": 2
+  },
+  "minecraft:smoking": {
+    "order": 3
+  },
+  "farmersdelight:cooking": {
+    "order": 4
+  },
+  "minecraft:campfire_cooking": {
+    "order": 5
+  },
+  "farmersdelight:cutting": {
+    "order": 6
+  },
+  "minecraft:stonecutting": {
+    "order": 7
+  },
+  "minecraft:smithing": {
+    "order": 8
+  },
+  "emi:anvil_repairing": {
+    "order": 9
+  },
+  "emi:grinding": {
+    "order": 10
+  },
+  "minecraft:brewing": {
+    "order": 9
+  },
+  "emi_loot:mob_drops": {
+    "order": 11,
+    "icon": {
+      "stack": "item:minecraft:spawner"
+    }
+  },
+  "emi_loot:gameplay_drops": {
+    "order": 12,
+    "icon": {
+      "stack": "item:minecraft:cartography_table"
+    }
+  },
+  "emi_loot:chest_loot": {
+    "order": 13,
+    "icon": {
+      "stack": "item:minecraft:barrel"
+    }
+  },
+  "emi_loot:archaeology_drops": {
+    "order": 14,
+    "icon": {
+      "stack": "item:minecraft:suspicious_gravel"
+    }
+  },
+  "lychee:dripstone_dripping/minecraft/default": {
+    "order": 93,
+    "icon": {
+      "stack": "item:minecraft:dripstone_block"
+    },
+    "sort": "input_then_output"
+  },
+  "emi:world_interaction": {
+    "order": 94,
+    "sort": "input_then_output"
+  },
+  "emi:composting": {
+    "order": 95
+  },
+  "farmersdelight:decomposition": {
+    "order": 96
+  },
+  "emi_loot:block_drops": {
+    "order": 97,
+    "icon": {
+      "stack": "item:minecraft:dirt"
+    }
+  },
+  "emi:info": {
+    "order": 98,
+    "icon": {
+      "stack": "item:minecraft:knowledge_book"
+    }
+  },
+  "emi:fuel": {
+    "order": 99,
+    "icon": {
+      "stack": "item:minecraft:magma_block"
+    }
+  },
+  "emi:tag": {
+    "order": 100,
+    "icon": {
+      "stack": "item:minecraft:chiseled_bookshelf"
+    }
+  }
+}

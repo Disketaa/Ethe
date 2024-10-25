@@ -18,9 +18,7 @@
 /config/vmp.properties
 /config/xaero*
 /crash-reports/
-/data/fabricDefaultResourcePacks.dat
-/data/resourcepacks/Default/respackopts.json5
-/data/servers_playtime.dat
+/data/
 /downloads/
 /emi.json
 /fancymenu_data/
@@ -29,7 +27,6 @@
 /logs/
 /options.txt
 /profile.json
-/resourcepacks/
 /saves/
 /screenshots/
 /servers.dat
@@ -42,3 +39,4 @@ config/jade
 config/yosbr/config/jade/usernamecache.json
 Default.rpo
 realms_persistence.json
+resourcepacks/A Good Place Sample Pack.zip

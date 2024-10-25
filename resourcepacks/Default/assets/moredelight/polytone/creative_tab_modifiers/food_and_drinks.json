@@ -1,0 +1,170 @@
+{
+  "targets": [
+    "food_and_drinks"
+  ],
+  "additions": [
+    {
+      "items": [
+        "moredelight:bread_slice",
+        "moredelight:toast",
+        "moredelight:toast_with_sweet_berries",
+        "moredelight:toast_with_glow_berries",
+        "moredelight:toast_with_honey",
+        "moredelight:toast_with_chocolate",
+        "moredelight:toast_with_egg",
+        "moredelight:tomato_sandwich",
+        "farmersdelight:bacon_sandwich",
+        "moredelight:egg_with_bacon_sandwich",
+        "moredelight:simple_hamburger"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "farmersdelight:hamburger"
+        ]
+      }
+    },
+    {
+      "items": [
+        "moredelight:steak_sandwich",
+        "moredelight:porkchop_sandwich"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "farmersdelight:chicken_sandwich"
+        ]
+      }
+    },
+    {
+      "items": [
+        "moredelight:chicken_sandwich_with_egg_and_tomato"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "farmersdelight:egg_sandwich"
+        ]
+      }
+    },
+    {
+      "items": [
+        "moredelight:hamburger_with_egg",
+        "moredelight:loaded_hamburger"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "farmersdelight:hamburger"
+        ]
+      }
+    },
+    {
+      "items": [
+        "moredelight:diced_potatoes"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "farmersdelight:stuffed_potato"
+        ]
+      }
+    },
+    {
+      "items": [
+        "moredelight:mashed_potatoes",
+        "moredelight:cooked_diced_potatoes_with_beef",
+        "moredelight:cooked_diced_potatoes_with_porkchop",
+        "moredelight:cooked_diced_potatoes_with_chicken_cuts"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "farmersdelight:stuffed_potato"
+        ]
+      }
+    },
+    {
+      "items": [
+        "moredelight:cooked_rice_with_milk_cream_and_beef",
+        "moredelight:cooked_rice_with_milk_cream_and_porkchop",
+        "moredelight:cooked_rice_with_milk_cream_and_chicken_cuts"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "farmersdelight:fried_rice"
+        ]
+      }
+    },
+    {
+      "items": [
+        "moredelight:omelette"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "farmersdelight:bacon_and_eggs"
+        ]
+      }
+    },
+    {
+      "items": [
+        "moredelight:pasta_with_milk_cream_and_ham"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "farmersdelight:pasta_with_mutton_chop"
+        ]
+      }
+    },
+    {
+      "items": [
+        "moredelight:potato_salad"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "farmersdelight:mixed_salad"
+        ]
+      }
+    },
+    {
+      "items": [
+        "moredelight:chicken_salad"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "farmersdelight:ratatouille"
+        ]
+      }
+    },
+    {
+      "items": [
+        "moredelight:carrot_soup"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "farmersdelight:pumpkin_soup"
+        ]
+      }
+    },
+    {
+      "items": [
+        "moredelight:chocolate_popsicle"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "farmersdelight:melon_popsicle"
+        ]
+      }
+    }
+  ]
+}

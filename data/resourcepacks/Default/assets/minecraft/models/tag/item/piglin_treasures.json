@@ -1,7 +1,0 @@
-{
-  "parent": "emi:item/half_item",
-  "textures": {
-    "first": "minecraft:item/golden_apple",
-    "second": "minecraft:item/golden_apple"
-  }
-}

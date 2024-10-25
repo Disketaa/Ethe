@@ -1,6 +1,0 @@
-{
-  "variants" : {
-    "default" : "sprite:minecraft/pig/pig.png",
-    "layersAllowed": true
-    }
-  }

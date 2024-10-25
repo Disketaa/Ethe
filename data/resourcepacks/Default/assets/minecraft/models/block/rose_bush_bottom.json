@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cross_tint",
-  "textures": {
-    "cross": "minecraft:block/rose_bush_bottom",
-    "cross_tint": "block/rose_bush_bottom_overlay"
-  }
-}

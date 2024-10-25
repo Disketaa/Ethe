@@ -1,6 +1,0 @@
-{
-  "variants" : {
-    "default" : "sprite:minecraft/warden/warden.png",
-    "layersAllowed": true
-    }
-  }

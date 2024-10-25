@@ -1,6 +1,0 @@
-{
-  "variants" : {
-    "default" : "sprite:minecraft/fish/pufferfish.png",
-    "layersAllowed": true
-    }
-  }

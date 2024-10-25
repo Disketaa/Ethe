@@ -1,6 +1,0 @@
-{
-  "variants" : {
-    "default" : "sprite:minecraft/camel/camel.png",
-    "layersAllowed": true
-    }
-  }

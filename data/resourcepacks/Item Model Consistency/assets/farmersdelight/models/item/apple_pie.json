@@ -1,8 +1,0 @@
-{
-  "parent": "farmersdelight:item/template_pie",
-  "textures": {
-    "top": "farmersdelight:block/apple_pie_top",
-    "side": "farmersdelight:block/pie_side",
-    "bottom": "farmersdelight:block/pie_bottom"
-  }
-}

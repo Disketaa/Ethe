@@ -1,7 +1,0 @@
-{
-  "parent": "item/diamond_shovel",
-  "textures": {
-    "layer0": "item/diamond_shovel",
-    "layer1": "trims/items/shovel_trim_lapis"
-  }
-}

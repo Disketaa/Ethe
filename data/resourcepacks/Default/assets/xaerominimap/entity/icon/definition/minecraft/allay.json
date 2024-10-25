@@ -1,6 +1,0 @@
-{
-  "variants" : {
-    "default" : "sprite:minecraft/allay/allay.png",
-    "layersAllowed": true
-    }
-  }

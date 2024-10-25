@@ -1,6 +1,0 @@
-{
-  "variants" : {
-    "default" : "sprite:minecraft/zombie/zombie.png",
-    "layersAllowed": true
-    }
-  }

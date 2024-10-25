@@ -1,6 +1,0 @@
-{
-  "variants" : {
-    "default" : "sprite:minecraft/enderman/enderman.png",
-    "layersAllowed": true
-    }
-  }

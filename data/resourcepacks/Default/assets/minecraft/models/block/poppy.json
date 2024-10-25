@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cross_tint",
-  "textures": {
-    "cross": "minecraft:block/poppy",
-    "cross_tint": "minecraft:block/poppy_overlay"
-  }
-}

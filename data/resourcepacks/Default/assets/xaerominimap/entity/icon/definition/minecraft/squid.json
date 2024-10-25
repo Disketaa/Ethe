@@ -1,6 +1,0 @@
-{
-  "variants" : {
-    "default" : "sprite:minecraft/squid/squid.png",
-    "layersAllowed": true
-    }
-  }

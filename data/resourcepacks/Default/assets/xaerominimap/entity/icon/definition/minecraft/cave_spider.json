@@ -1,6 +1,0 @@
-{
-  "variants" : {
-    "default" : "sprite:minecraft/spider/cave_spider.png",
-    "layersAllowed": true
-    }
-  }

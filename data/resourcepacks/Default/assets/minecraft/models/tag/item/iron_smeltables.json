@@ -1,7 +1,0 @@
-{
-  "parent": "emi:item/half_item",
-  "textures": {
-    "first": "minecraft:item/iron_chestplate",
-    "second": "minecraft:item/iron_pickaxe"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "variants" : {
-    "default" : "sprite:minecraft/illager/ravager.png",
-    "layersAllowed": true
-    }
-  }

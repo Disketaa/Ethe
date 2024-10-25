@@ -1,6 +1,0 @@
-{
-  "variants" : {
-    "default" : "sprite:minecraft/ghast/ghast.png",
-    "layersAllowed": true
-    }
-  }

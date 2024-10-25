@@ -1,6 +1,0 @@
-{
-  "variants" : {
-    "default" : "sprite:minecraft/bat.png",
-    "layersAllowed": true
-    }
-  }

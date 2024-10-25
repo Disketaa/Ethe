@@ -1,38 +1,45 @@
 {
   "schema_version": 2,
   "pack_overrides": {
-    "1": [
-      "programmer_art",
-      "high_contrast",
+    "file/Default": {
+      "title": "{\"translate\":\"resourcePack.vanilla.name\"}",
+      "required": true
+    },
+
+    "Hidden": [
       "a_good_place:default_animations",
-      "file/A Good Place Sample Pack.zip",
+      "armorchroma:alternative-icons",
       "elytratrims:legacy",
-      "moonlight:mods_dynamic_assets"
+      "file/A Good Place Sample Pack.zip",
+      "high_contrast",
+      "moonlight:mods_dynamic_assets",
+      "programmer_art",
+      "subtle_effects:biome_color_water_particles"
     ],
 
-    "2": [
+    "Core": [
       "vanilla",
-      "fabric",
+      "fabric"
+    ],
+
+    "Needed": [
       "minecraft:supporteatinganimation"
     ],
 
-    "3": [
-      "Default",
-      "Item Model Consistency"
-    ],
-
-    "$$1": {
+    "$$Hidden": {
       "hidden": true
     },
 
-    "$$2": {
+    "$$Core": {
       "default_position": "bottom",
+      "hidden": true
+    },
+
+    "$$Needed": {
+      "default_position": "top",
+      "fixed_position": true,
       "required": true,
       "hidden": true
-    },
-
-    "$$3": {
-      "required": true
     }
   }
 }

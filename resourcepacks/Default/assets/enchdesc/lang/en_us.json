@@ -1,5 +1,9 @@
 {
   "enchdesc.activate.message": "(Hold Shift for enchantment descriptions)",
+
+  "enchantment.elytra_enchants.launch.desc": "Launches up during takeoff",
+  "enchantment.elytra_enchants.skipping.desc": "Bounces when landing with a jump",
+
   "enchantment.minecraft.aqua_affinity.desc": "Increases the mining speed while underwater",
   "enchantment.minecraft.bane_of_arthropods.desc": "Increases damage against arthropods",
   "enchantment.minecraft.binding_curse.desc": "Prevents unequipping",

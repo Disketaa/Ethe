@@ -1,5 +1,9 @@
 {
   "enchdesc.activate.message": "(Удерживайте Shift для описания чар)",
+
+  "enchantment.elytra_enchants.launch.desc": "Запускает вверх при взлёте",
+  "enchantment.elytra_enchants.skipping.desc": "Позволяет оттолкнуться при приземлении с прыжком",
+
   "enchantment.minecraft.aqua_affinity.desc": "Ускоряет разрушение блоков под водой",
   "enchantment.minecraft.bane_of_arthropods.desc": "Повышает урон против насекомых",
   "enchantment.minecraft.binding_curse.desc": "Запрещает снятие зачарованного предмета",

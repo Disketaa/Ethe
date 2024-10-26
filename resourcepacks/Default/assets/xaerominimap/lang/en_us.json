@@ -1,0 +1,5 @@
+{
+  "gui.xaero_waypoint_shared2" : "%1$s §eshared a waypoint called §r\"%2$s\"",
+  "gui.xaero_waypoint_shared_dimension2" : "%1$s §eshared a waypoint called §r\"%2$s\" §efrom %3$s",
+  "gui.xaero_waypoint_shared_add" : "§a [Add]"
+}

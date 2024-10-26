@@ -1,0 +1,13 @@
+{
+  "keys": [
+    "farmersdelight:pie_crust",
+    "moredelight:toast",
+    "moredelight:toast_with_chocolate",
+    "moredelight:toast_with_egg",
+    "moredelight:toast_with_glow_berries",
+    "moredelight:toast_with_honey",
+    "moredelight:toast_with_sweet_berries"
+  ],
+  "soundEvent": "sounds:block.oak_log.fall",
+  "pitch": 1.9
+}

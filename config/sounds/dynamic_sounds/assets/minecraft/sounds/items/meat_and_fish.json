@@ -20,7 +20,8 @@
     "farmersdelight:shepherds_pie",
     "farmersdelight:steak_and_potatoes",
     "farmersdelight:sweet_berry_cheesecake_slice",
-    "farmersdelight:vegetable_noodles"
+    "farmersdelight:vegetable_noodles",
+    "moredelight:pasta_with_milk_cream_and_ham"
   ],
   "pitch": 1.8,
   "soundEvent": "minecraft:entity.puffer_fish.flop",

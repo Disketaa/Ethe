@@ -2,6 +2,7 @@
   "keys": [
     "#c:foods/berries",
     "#c:foods/breads",
+    "#c:foods/contain_bread",
     "#c:foods/fruits",
     "#c:foods/vegetables",
     "farmersdelight:cabbage_rolls",
@@ -17,7 +18,10 @@
     "farmersdelight:kelp_roll_slice",
     "farmersdelight:mushroom_rice",
     "farmersdelight:rice_panicle",
-    "farmersdelight:straw"
+    "farmersdelight:straw",
+    "moredelight:bread_slice",
+    "moredelight:potato_salad",
+    "moredelight:chicken_salad"
   ],
   "pitch": 1.76,
   "soundEvent": "minecraft:block.crop.break",

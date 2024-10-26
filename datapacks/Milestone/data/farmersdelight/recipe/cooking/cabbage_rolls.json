@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "misc",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredients": [
+    {
+      "item": "farmersdelight:rice"
+    },
+    {
+      "tag": "farmersdelight:cabbage_roll_ingredients"
+    }
+  ],
+  "container": {
+    "id": "farmersdelight:cabbage"
+  },
+  "result": {
+    "id": "farmersdelight:cabbage_rolls"
+  }
+}

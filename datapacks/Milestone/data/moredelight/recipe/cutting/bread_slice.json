@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cutting",
+  "tool": {
+    "tag": "c:tools/knife"
+  },
+  "ingredients": [
+    {
+      "tag": "c:foods/bread"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "id": "moredelight:bread_slice",
+        "count": 3
+      }
+    }
+  ]
+}

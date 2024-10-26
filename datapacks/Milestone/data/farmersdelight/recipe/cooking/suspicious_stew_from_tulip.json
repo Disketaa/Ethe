@@ -1,0 +1,44 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "experience": 2.0,
+  "ingredients": [
+      {
+        "tag": "c:mushrooms"
+      },
+      {
+        "tag": "c:mushrooms"
+      },
+      {
+      "fabric:type": "fabric:any",
+      "ingredients": [
+        {
+          "item": "minecraft:red_tulip"
+        },
+        {
+          "item": "minecraft:orange_tulip"
+        },
+        {
+          "item": "minecraft:white_tulip"
+        },
+        {
+          "item": "minecraft:pink_tulip"
+        }
+      ]
+    }
+  ],
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "result": {
+    "id": "minecraft:suspicious_stew",
+    "components": {
+      "minecraft:suspicious_stew_effects": [
+        {
+          "id": "minecraft:weakness",
+          "duration": 140
+        }
+      ]
+    }
+  }
+}

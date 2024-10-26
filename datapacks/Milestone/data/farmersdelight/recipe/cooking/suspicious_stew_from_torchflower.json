@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "experience": 2.0,
+  "ingredients": [
+      {
+        "tag": "c:mushrooms"
+      },
+      {
+        "tag": "c:mushrooms"
+      },
+      {
+        "item": "minecraft:torchflower"
+      }
+  ],
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "result": {
+    "id": "minecraft:suspicious_stew",
+    "components": {
+      "minecraft:suspicious_stew_effects": [
+        {
+          "id": "minecraft:night_vision",
+          "duration": 80
+        }
+      ]
+    }
+  }
+}

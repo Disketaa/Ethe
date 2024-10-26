@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "experience": 1.0,
+  "ingredients": [
+      {
+        "tag": "c:mushrooms"
+      },
+      {
+        "tag": "c:mushrooms"
+      },
+      {
+        "tag": "c:mushrooms"
+      }
+  ],
+  "container": {
+    "id": "minecraft:bowl"
+  },
+  "result": {
+    "id": "minecraft:mushroom_stew"
+  }
+}

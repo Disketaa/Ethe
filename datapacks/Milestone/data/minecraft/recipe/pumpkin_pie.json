@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:pumpkin"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "-": {
+      "item": "farmersdelight:pie_crust"
+    }
+  },
+  "pattern": [
+    "#",
+    "S",
+    "-"
+  ],
+  "result": {
+    "id": "minecraft:pumpkin_pie"
+  }
+}

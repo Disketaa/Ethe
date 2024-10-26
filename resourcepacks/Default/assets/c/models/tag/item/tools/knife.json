@@ -1,0 +1,7 @@
+{
+  "parent": "emi:item/half_item",
+  "textures": {
+    "first": "farmersdelight:item/diamond_knife",
+    "second": "farmersdelight:item/diamond_knife"
+  }
+}

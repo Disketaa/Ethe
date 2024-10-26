@@ -1,0 +1,18 @@
+{
+  "values": [
+    "farmersdelight:bacon_sandwich",
+    "farmersdelight:chicken_sandwich",
+    "farmersdelight:egg_sandwich",
+    "farmersdelight:hamburger",
+    "farmersdelight:mutton_wrap",
+    "moredelight:bread_slice",
+    "moredelight:chicken_sandwich_with_egg_and_tomato",
+    "moredelight:egg_with_bacon_sandwich",
+    "moredelight:hamburger_with_egg",
+    "moredelight:loaded_hamburger",
+    "moredelight:porkchop_sandwich",
+    "moredelight:simple_hamburger",
+    "moredelight:steak_sandwich",
+    "moredelight:tomato_sandwich"
+  ]
+}

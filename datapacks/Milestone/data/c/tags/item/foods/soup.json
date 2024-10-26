@@ -1,0 +1,19 @@
+{
+  "replace": true,
+  "values": [
+    "farmersdelight:baked_cod_stew",
+    "farmersdelight:beef_stew",
+    "farmersdelight:bone_broth",
+    "farmersdelight:chicken_soup",
+    "farmersdelight:fish_stew",
+    "farmersdelight:noodle_soup",
+    "farmersdelight:pumpkin_soup",
+    "farmersdelight:tomato_sauce",
+    "farmersdelight:vegetable_soup",
+    "moredelight:carrot_soup",
+    "minecraft:beetroot_soup",
+    "minecraft:mushroom_stew",
+    "minecraft:rabbit_stew",
+    "minecraft:suspicious_stew"
+  ]
+}

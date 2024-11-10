@@ -54,6 +54,9 @@ sculkVeinSculkDust = true
 sculkShriekerDestroySouls = true
 sculkCatalystDestroySouls = true
 calibratedSculkSensorAmethystSparkle = true
+campfireSizzlingSounds = true
+vegetationFirefliesDensity = 30
+vegetationFirefliesSpawnType = "FLOWERS_ONLY"
 
 [sparks]
 removeVanillaCampfireSparks = true
@@ -72,9 +75,13 @@ furnaceSmoke = true
 fireSmoke = true
 torchSmoke = true
 lavaSparkSmoke = true
+campfireDowseSmoke = true
 
 [steam]
 lavaFizzSteam = true
+replaceCampfireFoodSmoke = true
+spongeDryingOutSteam = true
+spawnLogic = "BRIGHTNESS"
 steamingWater = false
 boilingWater = false
 steamingWaterCauldron = false

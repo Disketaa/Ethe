@@ -18,6 +18,9 @@ replaceSpellCasterParticles = true
 ironGolemCrackParticles = true
 spectralArrowParticles = true
 wardenDeathSoulParticles = true
+drowningBubbles = "DEFAULT"
+drowningBubblesDensity = 10
+frostyBreath = "DEFAULT"
 
 [attacked]
 chickenFeathers = false
@@ -37,9 +40,12 @@ sleepingZs = false
 [dustClouds]
 scale = 0.5
 alpha = 0.3
-fallDamage = false
-sprinting = false
-mobSprinting = false
+playerFell = false
+playerRunning = false
+mobFell = false
+mobRunning = false
+landMaceAttack = true
+preventWhenRaining = false
 
 [burning]
 smoke = "DEFAULT"

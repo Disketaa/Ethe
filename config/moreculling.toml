@@ -18,4 +18,14 @@ beaconBeamCulling = true
 useOnModdedBlocksByDefault = true
 
 [modCompatibility]
+sootychimneys = true
+farmersdelight = true
+metalfences = true
+amendments = true
+easymagic = true
+shutter = true
+snowrealmagic = true
+easyanvils = true
+visualworkbench = true
+sereneseasons = true
 minecraft = true

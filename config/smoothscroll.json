@@ -1,10 +1,27 @@
 {
-  "note": "Safe values for settings are 0 - 1 (inclusive). 0 means animation off (infinite speed) and bigger values mean slower speed (up to 1). Press F3+T in a world to update config.",
-  "hotbarSpeed": 0.1,
-  "chatSpeed": 0.25,
-  "chatOpeningSpeed": 0.25,
-  "creativeScreenSpeed": 0.5,
-  "entryListSpeed": 0.5,
-  "enableMaskDebug": false,
-  "cfgVersion": 2.1
+  "Notes": [
+    "Safe values for settings are 0 - 1 (inclusive).",
+    "0 means animation off (no smoothness) and bigger values mean slower animation speed (high smoothness).",
+    "Press F3+T in a world to update the config.",
+    "To access config ingame, use the mod modmenu."
+  ],
+  "Hotbar": {
+    "Smoothness": 0.1,
+    "Rollover": false
+  },
+  "Chat": {
+    "Smoothness": 0.25,
+    "Opening Speed": 0.25
+  },
+  "Creative Screen": {
+    "Smoothness": 0.5
+  },
+  "Entry List": {
+    "Smoothness": 0.5,
+    "Speed": 30.0
+  },
+  "Misc": {
+    "Enable mask debug": false
+  },
+  "Format": 2.2
 }

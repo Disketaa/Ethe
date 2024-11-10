@@ -1,5 +1,6 @@
 /.cache/
 /.fabric/
+/cache/
 /command_history.txt
 /config/chatcalc.json
 /config/chunksfadein.properties

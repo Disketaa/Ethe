@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "moredelight:item/diced_potatoes"
+    "layer0": "moredelight:item/bread_slice"
   },
   "overrides": [
     {
@@ -9,21 +9,21 @@
         "eating": 1,
         "eat": 0.35
       },
-      "model": "moredelight:item/diced_potatoes_eating_0"
+      "model": "moredelight:item/bread_slice_eating_0"
     },
     {
       "predicate": {
         "eating": 1,
         "eat": 0.7
       },
-      "model": "moredelight:item/diced_potatoes_eating_1"
+      "model": "moredelight:item/bread_slice_eating_1"
     },
     {
       "predicate": {
         "eating": 1,
         "eat": 0.9
       },
-      "model": "moredelight:item/diced_potatoes_eating_2"
+      "model": "moredelight:item/bread_slice_eating_2"
     }
   ]
 }

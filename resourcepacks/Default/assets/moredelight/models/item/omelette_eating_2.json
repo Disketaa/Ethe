@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "moredelight:item/diced_potatoes_1"
+    "layer0": "moredelight:item/omelette_eating_2"
   }
 }

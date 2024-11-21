@@ -55,6 +55,7 @@ sculkShriekerDestroySouls = true
 sculkCatalystDestroySouls = true
 calibratedSculkSensorAmethystSparkle = true
 campfireSizzlingSounds = true
+campfireSizzlingSoundVolume = 0.5
 vegetationFirefliesDensity = 30
 vegetationFirefliesSpawnType = "FLOWERS_ONLY"
 
@@ -65,7 +66,7 @@ furnaceSparks = true
 fireSparks = true
 campfireSparks = true
 torchSparks = true
-lanternSparks = true
+lanternSparksDensity = 5
 lavaCauldronSparks = true
 lavaSparks = "ON"
 

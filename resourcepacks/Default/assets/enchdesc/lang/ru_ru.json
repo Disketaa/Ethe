@@ -54,11 +54,8 @@
   "enchantment.nova_structures.ghasted.desc": "Выпускает огненый шар",
   "enchantment.nova_structures.gravity.desc": "Выпускает стягивающее поле",
   "enchantment.nova_structures.illagers_bane.desc": "Увеличивает урон против зловредов",
-  "enchantment.nova_structures.multishot.desc": "Выпускает дополнительные снаряды",
   "enchantment.nova_structures.outreach.desc": "Увеличивает радиус взаимодействий",
   "enchantment.nova_structures.photosynthesis.desc": "Чинит себя в лучах солнца",
-  "enchantment.nova_structures.piercing.desc": "Позволяет снарядам проходить насквозь",
-  "enchantment.nova_structures.power.desc": "Увеличивает урон снарядов",
   "enchantment.nova_structures.traveler.desc": "Увеличивает скорость передвижения и позволяет взбираться на блоки",
   "enchantment.nova_structures.wax_wings.desc": "Не теряет прочность при медленном полете, но теряет в два раза больше при быстром",
   "enchantment.nova_structures.wither_coated.desc": "Иссушает цель при атаке, ценой дополнительной потери прочности"

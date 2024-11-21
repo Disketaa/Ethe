@@ -40,3 +40,5 @@ config/yosbr/config/jade/usernamecache.json
 Default.rpo
 realms_persistence.json
 resourcepacks/A Good Place Sample Pack.zip
+project.sublime-workspace
+project.sublime-project

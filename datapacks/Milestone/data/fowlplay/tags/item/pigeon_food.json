@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "#c:animal_foods",
+    "#c:seeds"
+  ]
+}

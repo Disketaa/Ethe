@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "#c:animal_foods",
+    "#c:seeds",
+    "minecraft:egg",
+    "minecraft:turtle_egg"
+  ]
+}

@@ -19,10 +19,7 @@
 
     "Core": [
       "vanilla",
-      "fabric"
-    ],
-
-    "Needed": [
+      "fabric",
       "minecraft:supporteatinganimation"
     ],
 
@@ -32,14 +29,8 @@
 
     "$$Core": {
       "default_position": "bottom",
-      "hidden": true
-    },
-
-    "$$Needed": {
-      "default_position": "top",
-      "fixed_position": true,
       "required": true,
-      "hidden": true
+      "hidden": false
     }
   }
 }
